@@ -1,0 +1,5 @@
+flask
+#Flask==0.11.1
+SQLAlchemy==1.1.4
+pynag==0.9.1
+requests==2.11.1
