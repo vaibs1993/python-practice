@@ -1,0 +1,9 @@
+{
+  "dbconnector":"mysql+mysqlconnector",
+  "host":"localhost",
+  "username":"root",
+  "password":"root",
+  "dbname":"flask"
+}
+
+
